@@ -4,7 +4,7 @@ import 'globals.dart' as globals;
 import 'SplashScreen.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
-// this load the (messy) splash screen, opens/creates the database and displays
+// this loads the (messy) splash screen, opens/creates the database and displays
 // the correct theme and acts scheduled based on the festival the user has selected
 
 Future<void> main() async {
